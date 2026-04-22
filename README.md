@@ -1,1 +1,0 @@
-Python Quiz Application Project
